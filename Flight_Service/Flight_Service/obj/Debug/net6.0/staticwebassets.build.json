@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6M9Xpdd3dmbi/nKAU2wA6etjQizLwpgGRkndb6U0hak=",
+  "Source": "Flight_Service",
+  "BasePath": "_content/Flight_Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
